@@ -1,0 +1,14 @@
+.
+├── App.css
+├── App.jsx
+├── components
+│   ├── Filtro.jsx
+│   ├── Search.jsx
+│   ├── TodoForm.jsx
+│   └── Todo.jsx
+├── estrutura.txt
+├── img
+│   └── bg.png
+└── main.jsx
+
+2 directories, 9 files
